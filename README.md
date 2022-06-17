@@ -11,3 +11,5 @@ Put the project folder in XAMPP's htdocs.
 Fill the database tables on phpmyadmin.
 Run localhost.
 Enjoy.
+
+Note: Create 'image' folder inside Project folder.
