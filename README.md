@@ -9,5 +9,5 @@ Download Xampp.
 Extract project.
 Put the project folder in XAMPP's htdocs.
 Fill the database tables on phpmyadmin.
-Run the project in Visual Studio Code.
+Run localhost.
 Enjoy.
